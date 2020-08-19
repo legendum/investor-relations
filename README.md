@@ -1,1 +1,1 @@
-# investor-relations-page
+# investor-relations
